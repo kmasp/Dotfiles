@@ -1,0 +1,11 @@
+[user]
+	name = Kyle Moon
+	email = kmoon@stuy.edu
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = nano
+[push]
+	default = matching
